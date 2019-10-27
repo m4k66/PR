@@ -1,0 +1,6 @@
+E:\others\test\PR11\bin\Debug\PR11.exe.config
+E:\others\test\PR11\bin\Debug\PR11.exe
+E:\others\test\PR11\bin\Debug\PR11.pdb
+E:\others\test\PR11\obj\Debug\PR11.csprojResolveAssemblyReference.cache
+E:\others\test\PR11\obj\Debug\PR11.exe
+E:\others\test\PR11\obj\Debug\PR11.pdb
